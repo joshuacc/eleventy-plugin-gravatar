@@ -1,0 +1,15 @@
+{
+  "name": "eleventy-plugin-gravatar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["eleventy", "eleventy-plugin"],
+  "author": "Joshua Clanton",
+  "license": "MIT",
+  "devDependencies": {
+    "md5": "^2.3.0"
+  }
+}
