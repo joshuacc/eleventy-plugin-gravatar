@@ -1,6 +1,6 @@
 {
   "name": "eleventy-plugin-gravatar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,8 @@
   "keywords": ["eleventy", "eleventy-plugin"],
   "author": "Joshua Clanton",
   "license": "MIT",
-  "devDependencies": {
+  "repository": "github:joshuacc/eleventy-plugin-gravatar",
+  "dependencies": {
     "md5": "^2.3.0"
   }
 }
